@@ -1,0 +1,15 @@
+
+`
+java:S2095!"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(ŸŞÏ÷
+y
+java:S1989"^Handle the following exception that could be thrown by "encode": UnsupportedEncodingException.(äÆ…‰ÿÿÿÿÿ
+q
+java:S1989R"VHandle the following exception that could be thrown by "getOutputStream": IOException.(™ë÷¨üÿÿÿÿ
+g
+java:S1989S"LHandle the following exception that could be thrown by "write": IOException.(»•Êøÿÿÿÿ
+b
+java:S1989T"LHandle the following exception that could be thrown by "close": IOException.(ò›Üä
+b
+java:S1989U"LHandle the following exception that could be thrown by "close": IOException.(¢ÔïÌ
+z
+java:S1989Z"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(—ôÖ¢øÿÿÿÿ

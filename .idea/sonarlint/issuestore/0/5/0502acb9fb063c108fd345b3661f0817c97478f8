@@ -1,0 +1,54 @@
+
+_
+java:S1192P"IDefine a constant instead of duplicating this literal "pageInfo" 4 times.(¬¬Îœ
+c
+java:S1192"HDefine a constant instead of duplicating this literal "pageNum" 5 times.(˜’¨şÿÿÿÿ
+_
+java:S1192"JDefine a constant instead of duplicating this literal "studentId" 4 times.(ÏÃ™d
+d
+java:S1192S"IDefine a constant instead of duplicating this literal "identity" 4 times.(Ã¤‚Íüÿÿÿÿ
+g
+java:S1192"LDefine a constant instead of duplicating this literal "studentName" 4 times.(ÀÜ²¦ıÿÿÿÿ
+_
+java:S1192"IDefine a constant instead of duplicating this literal "courseId" 5 times.(“İ°ë
+l
+java:S1192z"QDefine a constant instead of duplicating this literal "ApplyHistory.jsp" 3 times.(€û§„ÿÿÿÿÿ
+]
+java:S1192"GDefine a constant instead of duplicating this literal "status" 4 times.(à¬İ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(¹Â·Š
+t
+java:S1989("YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(£å†ùÿÿÿÿ
+t
+java:S1989*"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ë°¦óùÿÿÿÿ
+>	java:S1080")Either remove or fill this block of code.(Éµİ¬
+j
+java:S3252A"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+j
+java:S3252E"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+w
+java:S1989T"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ñšıÖ
+t
+java:S1989Z"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(»ÍèÔüÿÿÿÿ
+j
+java:S3252g"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+j
+java:S3252j"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+|
+java:S1989z"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(€û§„ÿÿÿÿÿ
+t
+java:S1989~"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(»ÍèÔüÿÿÿÿ
+k
+java:S3252‰"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+}
+java:S1989˜"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(€û§„ÿÿÿÿÿ
+u
+java:S1989œ"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(»ÍèÔüÿÿÿÿ
+k
+java:S3252¤"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+}
+java:S1989±"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(€û§„ÿÿÿÿÿ
+{
+java:S1989·"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(—ôÖ¢øÿÿÿÿ
+İ
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 142 to 64, Complexity from 45 to 14, Nesting Level from 3 to 2, Number of Variables from 35 to 6.(¹Â·Š

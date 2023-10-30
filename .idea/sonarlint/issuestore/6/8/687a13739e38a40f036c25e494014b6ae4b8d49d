@@ -1,0 +1,24 @@
+
+g
+java:S1192"LDefine a constant instead of duplicating this literal "applyReason" 3 times.(Œ¿àÌıÿÿÿÿ
+k
+java:S1192#"PDefine a constant instead of duplicating this literal "applyUpdate(id=" 4 times.(ıå’Şüÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¹Â·Š
+n
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ã°ûV
+7	java:S131!""Add a default case to this switch.(ÜŸ•
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ıå’Şüÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(’éõ°
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Ÿ¹¥ë
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Êıûå
+t
+java:S19891"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Ù”Ãòøÿÿÿÿ
+n
+java:S1989F"SHandle the following exception that could be thrown by "sendRedirect": IOException.(×šÙûûÿÿÿÿ
+n
+java:S1989H"SHandle the following exception that could be thrown by "sendRedirect": IOException.(Éíòşÿÿÿÿ
+k
+java:S1989L"PHandle the following exception that could be thrown by "getWriter": IOException.(¿ì¬ûÿÿÿÿ
+z
+java:S1989R"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(—ôÖ¢øÿÿÿÿ
